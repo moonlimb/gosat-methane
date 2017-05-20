@@ -25,4 +25,7 @@ Wecht, Kevin James (2014). Quantifying Methane Emissions Using Satellite Observa
 
 Wecht, K. J., D. J. Jacob, C. Frankenberg, Z. Jiang, and D. R. Blake (2014), Mapping of North American methane emissions with high spatial resolution by inversion of SCIAMACHY satellite data, J. Geophys. Res. Atmos., 119, 7741–7756, doi:10.1002/ 2014JD021551.
 
+NOT READ YET/ For Future Reference
+==================================
+Consistent evaluation of ACOS-GOSAT, BESD-SCIAMACHY, CarbonTracker, and MACC through comparisons to TCCON
 
