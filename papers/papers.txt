@@ -1,0 +1,28 @@
+
+Global column‐averaged methane mixing ratios from 2003 to 2009 as derived from SCIAMACHY: Trends and variability (2010). C. Frankenberg,1,2 I. Aben,1 P. Bergamaschi,3 E. J. Dlugokencky,4 R. van Hees,1 S. Houweling,1,5 P. van der Meer,1 R. Snel,1 and P. Tol1
+- column-averaged methane mixing ratio
+- 2003 to 2009
+- SCIAMACHY
+
+Schneising, O., J. P. Burrows, R. R. Dickerson, M. Buchwitz, M. Reuter, and H. Bovensmann (2014), Remote sensing of fugitive methane emissions from oil and gas production in North American tight geologic formations, Earth’s Future, 2, 548–558, doi:10.1002/2014EF000265.
+- oil and gas
+
+
+A. J. Turner, D. J. Jacob, K. J. Wecht, J. D. Maasakkers, E. Lundgren, A. E. Andrews, S. C. Biraud, H. Boesch, K. W. Bowman, N. M. Deutscher, M. K. Dubey, D. W. T. Griffith, F. Hase, A. Kuze, J. Notholt, H. Ohyama, R. Parker, V. H. Payne, R. Sussmann, C. Sweeney, V. A. Velazco, T. Warneke, P. O. Wennberg, and D. Wunch (2015). Estimating global and North American methane emissions with high spatial resolution using GOSAT satellite data ---- good paper
+- GOSAT
+- summary table on satellites
+
+Turner, A. J., D. J. Jacob, J. Benmergui, S. C. Wofsy, J. D. Maasakkers, A. Butz, O. Hasekamp, and S. C. Biraud (2016), A large increase in U.S. methane emissions over the past decade inferred from satellite data and surface observations,
+Geophys. Res. Lett., 43, 2218–2224, doi:10.1002/2016GL067987.
+- US emissions
+
+
+K. J. Wecht, D. J. Jacob, M. P. Sulprizio, G. W. Santoni, S. C. Wofsy, R. Parker, H. Bösch, and J. Worden (2014). Spatially resolving methane emissions in California: constraints from the CalNex aircraft campaign and from present (GOSAT, TES) and future (TROPOMI, geostationary) satellite observations
+- CalNex
+- California
+
+Wecht, Kevin James (2014). Quantifying Methane Emissions Using Satellite Observations. Doctoral dissertation, Harvard University.
+
+Wecht, K. J., D. J. Jacob, C. Frankenberg, Z. Jiang, and D. R. Blake (2014), Mapping of North American methane emissions with high spatial resolution by inversion of SCIAMACHY satellite data, J. Geophys. Res. Atmos., 119, 7741–7756, doi:10.1002/ 2014JD021551.
+
+
