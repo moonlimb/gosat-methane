@@ -1,0 +1,17 @@
+Questions
+=========
+
+TgCh4 / region / year
+
+DATA
+a) How was anthropogenic flux distinguished from biomass burning / natural flux?
+b) How was uncertainty calculated?
+c) What is optimized flux, optimized uncertainty?
+d) What is the difference between imposed vs optimized uncertainty?
+e) What is the difference b/w methane flux per region vs. methane flux per grid?
+    difference in flux magnitude, uncertainty, etc.
+
+Region
+a) How were the regions chosen?
+b) What are the 43 regions?
+c) How is ‘region’ indicated in the data?
