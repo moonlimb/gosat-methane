@@ -1,0 +1,38 @@
+GITHUB Link:
+===========
+https://moonlimb.github.io/gosat-methane/
+
+Next Ideas:
+==========
+1) make an animated map of methane
+animation of monthly methane concentration
+
+similar to CO2 on on GOSAT 
+https://data2.gosat.nies.go.jp/gallery/simulated_global_co2_z99_gallery_en.html
+
+TODO: Ask Bia & Gui for tips via Matplotlib
+
+
+WHAT I DID
+==========
+# Open .tar.gz files in mac
+
+# 2013 data L4B
+gunzip -c L4BCH4_2013_V01.03.tar.gz | tar xopf -
+
+# install basemap
+brew install matplotlib-basemap
+
+(didn't work)
+downloaded tar gz file directly
+
+https://matplotlib.org/basemap/users/installing.html
+checked geos in /usr/local/include/ and /usr/local/..
+
+downloaded basemap to /usr/local/me
+added gEOS_DIR to bashrc
+
+pip install pyproj
+
+reference matplotlib backend
+http://stackoverflow.com/questions/21784641/installation-issue-with-matplotlib-python

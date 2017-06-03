@@ -1,0 +1,79 @@
+Dates:
+======
+
+May 20, 2017
+
+
+Notes
+- GOSAT (Greenhouse gases Observing SATellite 'IBUKI' was launched in January 2009
+- satellite data gives column mixing ratio measurements
+
+Data 
+=====
+
+I focus on level 4 data produts, L4A and L4B which are both in Net CDF formats.
+
+Link: https://data2.gosat.nies.go.jp/GosatDataArchiveService/usr/download/ProductPage/view
+
+L4A (2009 - 2013)
+====
+L4A global methane flux is methane flux per each of 43 global regions (monthlyaverage)
+Unit is 43 regions across the globa, 1 degree mesh (annual).
+
+File Size:       2-3 MiB  | 6-7 MiB
+File Type:       netCDF   | text 
+Product Code:    F04M     | F02M
+
+Metadata (from txt file):
+C   TITLE : L4A global CH4 flux
+C   PRODUCT VERSION : V01.03
+C   SOURCE : L2 CH4 column amount (SWIR) V02.21
+C   DATA PRODUCTION DATE : 2016-06-27
+C   PRODUCT DESCRIPTION : Monthly global CH4 flux estimated from FTS (SWIR) level 2 XCH4 data.
+C   INSTITUTION : GOSAT Project Office, Center for Global Environmental Research, National Institute for Environmental Studies
+C   EMAIL : gosat-support@nies.go.jp
+C   URL : http://www.gosat.nies.go.jp/
+C   PHONE : +81-29-850-2035
+C   FAX : +81-29-850-2219
+C   ADDRESS : 16-2 Onogawa, Tsukuba-city, Ibaraki, Japan
+C   POSTAL CODE : 305-8506
+
+
+RFLT ???? (ex. RFLX 3.358E-01)
+   Flux RFLT - RFLT (region/year)?
+YEAR 2013
+MONTH 01
+REGION NAME
+REGION NUMBER
+Anthopogenic Flux (TgCh4/region/year) <-- focus!
+Biomass Burning Flux
+Natural Flux
+Imposed Flux Uncertainty
+Optimized Flux
+Optimized Uncertainty (TgCh4/region/year)
+
+
+RFLT| YEAR | MONTH | REGION NAME | REGION | ANTHROPOGENIC       | BIOMASS BURNING     | NATURAL             | IMPOSED FLUX        | OPTIMIZED FLUX      | OPTIMIZED FLUX      |
+RFLT|      |       |             | NUMBER | FLUX                | FLUX                | FLUX                | UNCERTAINTY         | (TgCH4/region/year) | UNCERTAINTY         |
+RFLT|      |       |             |        | (TgCH4/region/year) | (TgCH4/region/year) | (TgCH4/region/year) | (TgCH4/region/year) |                     | (TgCH4/region/year) |
+C   
+
+
+
+L4B (2009 - 2013)
+====
+L4B global methane distribution is a 3D global distribution of methane concentation / 
+Unit: global 2.5 degrees mesh (monthly)
+
+File Size: 400-700 Mib
+File Type: NetCDF
+Product code: P02M
+
+Videos
+=======
+https://www.youtube.com/watch?v=ErF9IoQqqJo
+
+Acknowledgement
+===============
+Level $ methane data was obtained through the GOSAT Data Archive Service (gDAS) access on *date here*.
+

@@ -1,0 +1,1 @@
+https://matplotlib.org/examples/color/colormaps_reference.htm://matplotlib.org/examples/color/colormaps_reference.html
